@@ -1,0 +1,72 @@
+# SajiloYatra Database Management System
+
+## Overview
+SajiloYatra is a Bus Transportation Database Management System developed using Oracle SQL. The project manages passengers, bookings, buses, routes, tickets, payments, and staff operations.
+
+This project demonstrates database design concepts including:
+- ERD Design
+- Database Normalization
+- Primary and Foreign Keys
+- SQL Queries
+- Data Manipulation
+- Transaction Queries
+
+---
+
+## Technologies Used
+- Oracle SQL
+- Draw.io
+- Relational Database Design
+- SQL Queries
+- Database Normalization (1NF, 2NF, 3NF)
+
+---
+
+## Features
+- Passenger Management
+- Bus and Route Management
+- Ticket Booking System
+- Payment Tracking
+- Staff Assignment System
+- Revenue Analysis
+- Trip Scheduling
+
+---
+
+## Database Concepts Used
+- ERD Design
+- Primary & Foreign Keys
+- Constraints
+- Joins
+- Aggregate Functions
+- Group By Queries
+- Nested Queries
+- Transaction Queries
+
+---
+
+## Sample Queries
+- Total revenue generated per route
+- Top passengers with most bookings
+- Trips operating below 50% capacity
+- Latest departing trip
+- Payment status tracking
+
+---
+
+## Project Structure
+
+SajiloYatra-Database-System/
+│
+├── README.md
+├── schema.sql
+├── insert_data.sql
+├── queries.sql
+├── erd/
+    └── final_erd.png
+
+
+---
+
+## Author
+Aastha Karki
