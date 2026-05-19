@@ -62,8 +62,7 @@ SajiloYatra-Database-System/
 ├── schema.sql
 ├── insert_data.sql
 ├── queries.sql
-├── erd/
-    └── final_erd.png
+└── final_erd.png
 
 
 ---
